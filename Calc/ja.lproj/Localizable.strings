@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Calc
+
+  Created by YAKUCon 2012/11/29.
+  Copyright (c) 2012年 YAKUC. All rights reserved.
+*/
+
+// Common
+"CS_OK" = "OK";
+
+// Error message
+"CS_OVERFLOW_ERROR_TITLE" = "桁溢れエラー";
+"CS_OVERFLOW_ERROR_MESSAGE" = "計算結果が１５桁を超えました。１５桁以上の計算は行えません。";
+"CS_DIVIED_BY_ZERO_TITLE" = "ゼロ除算は出来ません";
+"CS_DIVIED_BY_ZERO_MESSAGE" = "数値を０で割ることは出来ません。０以外の数値で割り算を行ってください。";
